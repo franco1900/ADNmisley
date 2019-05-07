@@ -54,6 +54,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     }
   })
 
+  .state('tab.and', {
+    url: '/adn',
+    views: {
+      'tab-adn': {
+        templateUrl: 'templates/tab-adn.html',
+        controller: 'AdnCtrl'
+      }
+    }
+  })
+
   .state('tab.chats', {
       url: '/chats',
       views: {

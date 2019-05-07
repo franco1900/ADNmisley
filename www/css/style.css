@@ -323,3 +323,97 @@ ion-view{
     transform: scale(1) translateX(0px);
   }
 }
+.nutrifacts-img {
+  float:center;
+}
+.nutrifacts-img img {
+  width:300px;
+}
+.nutrifacts-html {
+  padding:2px;
+  font-family: "Helvetica";
+  font-size: 12px;
+  float: left;
+  border: 1px solid black;
+  width: 250px;
+  margin-top:2px;
+}
+.nutrifacts-html table {
+  border-collapse: collapse;
+  width:100%;
+}
+.nutrifacts-html td {
+  border-top: 1px solid black;
+}
+.nutrifacts-html h2 {
+  margin:0;
+  font-size:29px;
+}
+.separator {
+  height:10px;
+  background-color: black;
+  margin-top:2px;
+}
+.align-text-right {
+  text-align:right;
+}
+.info {
+  border-top:1px solid black;
+  padding: 2px;
+  font-size:9px;
+}
+/** Gracias 
+Siganme en Twitter @iframe !! :)
+**/
+
+body{
+background-image: url("fondo.jpg");
+background-size:cover;
+height: 45px;
+}
+
+h2{
+  background-color: green;
+  font-size: 300%;
+  font-family: algerian;
+  color: white;
+}
+
+
+span{
+  background-color: yellow;
+}
+
+h3{
+  background-color: blue;
+  font-size: 200%;
+  font-family:;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  border:solid yellow;
+
+}
+
+img{
+  height: 300%;
+  width: 300px;
+
+}
+
+h4{
+  background-color: green;
+  font-size: 150%;
+  font-family:;
+  color: white;
+}
+
+h5{
+  
+  font-size: 140%;
+  font-family:;
+  color: white;
+}
